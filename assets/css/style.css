@@ -258,6 +258,8 @@ th {
     margin-bottom: 10px;
 }
 
+#sponsors {
+	background-color: #0099ff;}
 #sponsors h2,
 #register h2 {
     text-align: center;
