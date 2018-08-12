@@ -125,8 +125,12 @@
     background-color: yellow;
 }
 
-.nav-item .navbar-light .navbar-nav .nav-link {
+.nav-item .navbar-light{
     color: rgba(255,255,0,0,3);
+}
+
+.navbar-nav .nav-link {
+    color: rgba(255,255,255, 0.3);
 }
 
 ul.nav li a, ul.nav li a:visited {
