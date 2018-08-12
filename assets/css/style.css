@@ -1,4 +1,7 @@
 
+.clear {
+    clear: both;
+}
 .corner-ribbon{
   width: 200px;
   background: #e43;
