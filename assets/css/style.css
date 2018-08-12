@@ -4,12 +4,12 @@
 
 ::selection {
     text-shadow: #96d039 0 0 9.9px;
-    color: #FDAA66;
+    color: #fde145;
 }
 
 ::-moz-selection {
     text-shadow: #96d039 0 0 9.9px;
-    color: #FDAA66;
+    color: #fde145;
 }
 
 html {
@@ -166,7 +166,7 @@ th {
 
 h1 {
     font-weight: 600;
-    color: #FD9845;
+    color: #fde145;
 }
 
 #faq p {
@@ -175,7 +175,7 @@ h1 {
 }
 
 .link {
-    color: #FD9845 !important;
+    color: #fde145 !important;
 }
 
 
