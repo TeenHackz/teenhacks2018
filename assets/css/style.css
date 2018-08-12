@@ -59,9 +59,16 @@
     color: rgba(255,255,0,0,3);
 }
 
-.navbar-dark{nav
-	
-    color: rgba(255,255,255);
+ul.nav li a, ul.nav li a:visited {
+    color: rgba(255,255,0,0,3 !important;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: rgba(255,255,0,0,3 !important;
+}
+
+ul.nav li.active a {
+    color: rgba(255,255,0,0,3 !important;
 }
 
 :root {
