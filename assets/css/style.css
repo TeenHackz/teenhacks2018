@@ -256,7 +256,7 @@ h1 {
 }
 
 .bg-custom {
-    background-color: #232741;
+    background-color: #fff;
     position: absolute;
     width: 100%;
     z-index: 9998;
