@@ -49,17 +49,18 @@
 }
 
 .btn-default:focus,.btn-default:hover {
-    border: 1px solid green;
+    border: 1px solid yellow;
     outline: 0;
     color: #fff;
-    background-color: green;
+    background-color: yellow;
 }
 
-.navbar-light .navbar-nav .nav-link {
+.nav-item .navbar-light .navbar-nav .nav-link {
     color: rgba(255,255,0,0,3);
 }
 
-.navbar-dark{
+.navbar-dark{nav
+	
     color: rgba(255,255,255);
 }
 
