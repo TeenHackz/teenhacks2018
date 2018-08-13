@@ -278,6 +278,15 @@ th {
     box-shadow: 0px 0px 0px 3px #8F8F8F;
 }
 
+#sponsors img {
+    max-height: calc(40px + 6 * var(--vw));
+}
+
+#partners img {
+    max-height: calc(40px + 6 * var(--vw));
+}
+
+
 #allorgs {
     margin-top: 25px;
     text-align: center;
